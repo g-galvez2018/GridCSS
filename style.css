@@ -186,4 +186,10 @@ footer {
   .info {
     grid-template-columns: 1fr;
   }
+
+  .info .btn {
+    display: block;
+    text-align: center;
+    margin: auto;
+  }
 }
