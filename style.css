@@ -202,3 +202,12 @@ footer {
     'top-box-b';
   }
 }
+
+@media(max-width:300px){
+  .top-container {
+    grid-template-areas: 
+    'showcase'
+    'top-box-a'
+    'top-box-b';
+  }
+}
