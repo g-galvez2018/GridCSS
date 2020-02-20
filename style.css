@@ -207,7 +207,6 @@ footer {
   .top-container {
     grid-template-areas: 
     'showcase'
-    'top-box-a'
-    'top-box-b';
+    'top-box-a';    
   }
 }
